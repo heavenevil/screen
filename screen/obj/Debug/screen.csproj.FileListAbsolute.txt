@@ -1,0 +1,16 @@
+C:\201704\screen\screen\screen\bin\Debug\EasyHook32.dll
+C:\201704\screen\screen\screen\bin\Debug\EasyHook32Svc.exe
+C:\201704\screen\screen\screen\bin\Debug\EasyHook64.dll
+C:\201704\screen\screen\screen\bin\Debug\EasyHook64Svc.exe
+C:\201704\screen\screen\screen\bin\Debug\EasyLoad32.dll
+C:\201704\screen\screen\screen\bin\Debug\EasyLoad64.dll
+C:\201704\screen\screen\screen\bin\Debug\screen.exe
+C:\201704\screen\screen\screen\bin\Debug\screen.pdb
+C:\201704\screen\screen\screen\bin\Debug\EasyHook.dll
+C:\201704\screen\screen\screen\bin\Debug\EasyHook.xml
+C:\201704\screen\screen\screen\obj\Debug\screen.csprojResolveAssemblyReference.cache
+C:\201704\screen\screen\screen\obj\Debug\screen.Form1.resources
+C:\201704\screen\screen\screen\obj\Debug\screen.Properties.Resources.resources
+C:\201704\screen\screen\screen\obj\Debug\screen.csproj.GenerateResource.Cache
+C:\201704\screen\screen\screen\obj\Debug\screen.exe
+C:\201704\screen\screen\screen\obj\Debug\screen.pdb
